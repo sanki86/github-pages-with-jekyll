@@ -2,7 +2,7 @@ package test;
 
 public class test {
 	public static void main(String[] args) {
-		String abc ="ABCDEFG";
+		String abc ="ABCDEFGH";
 		
 		StringBuilder build = new StringBuilder();
 		build.append(abc);
