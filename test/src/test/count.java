@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class count {
 	public static void main(String[] args) {
-		String abc ="Hi this is sanki plus muthu5";
+		String abc ="Hi this is sanki plus muthu8";
 		String []split= abc.split("");
 		
 		HashMap<String,Integer> map = new HashMap<String,Integer>();
